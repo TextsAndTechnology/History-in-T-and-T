@@ -11,3 +11,7 @@ This repo also provides a place where you can collaboratively write reading note
 
 # This is a Heading
 You should change that heading's size.
+
+## This is another heading because I'm cool like that.
+
+### This is a level three heading.  Maybe?
