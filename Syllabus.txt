@@ -1,10 +1,10 @@
-﻿Intro to Texts and Technology
-ENG 6800 - 0001  
+﻿#Intro to Texts and Technology
+##ENG 6800 - 0001  
  
-Course Description
+##Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields, and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 
-Course Objectives
+##Course Objectives
 In this course, students will:
 �	Explore the five tracks (Digital Humanities, Digital Media, Public History, Rhetoric and Composition, Scientific and Technical Communication) of Texts & Technology through analysis and discussion of core texts.
 �	Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
@@ -15,11 +15,19 @@ In this course, students will:
 �	Understand the fundamentals of web platforms.
 �	Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 
-Required Texts
+##Required Texts
+Bogost, Ian Persuasive Games: The Expressive Power of Video Games. Cambridge, MA: MIT Press, 2007.
+Bolter, Dennis. Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
+Gold, Matthew K., Lauren Klein (ed s.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016 .
+Hayles, N. Katherine. How We Became Posthuman. Chicago: The University of Chicago Press, 1999. 
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: University of Chicago Press, 2012
+Selber, Stuart Multiliteracies for a Digital Age. Carbondale, IL: Southern Illinois University Press, 2004.
 
-Evaluation and Grading
 
-Grading Scale
+##Evaluation and Grading
+
+##Grading Scale
  
 A 	= 	94-100
 A- 	= 	90-93
@@ -35,9 +43,9 @@ D-	=	60-63
 F	=	0-59
  
 
-Assignments
+##Assignments
 	
-Policies
+##Policies
 �	During the first week, there is a required Academic Activity Verification, due August 24 by 11:59pm.
 o	Faculty members are required to document students� academic activity at the beginning of each course. To document that you began this course, please complete the Academic Activity Verification by the end of the first week of classes, or as soon as possible after adding the course. Failure to do so may result in a delay in the disbursement of your financial aid. This is required even for students who do not receive financial aid.
 �	Grades will be reported via carrier pigeon.
@@ -53,20 +61,28 @@ o	If there is a medical emergency during class, students may need to access a fi
 o	To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to my.ucf.edu and logging in. Click on �Student Self Service� located on the left side of the screen in the toolbar, scroll down to the blue �Personal Information� heading on the Student Center screen, click on �UCF Alert�, fill out the information, including e-mail address, cell phone number, and cell phone provider, click �Apply� to save the changes, and then click �OK.�
 o	Students with special needs related to emergency situations should speak with their instructors outside of class.
 o	To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk. 
+   
+    
 
-Weekly Schedule
-Week 1
-Week 2
-Week 3
-Week 4
-Week 5
-Week 6
-Week 7
-Week 8
-Week 9
-Week 10
-Week 11
-Week 12
-Week 13
-Week 14
-Week 15
+| DATE                     | READING         | ASSIGNMENT |
+| :----------------------- |:---------------:| ----------:|
+|  Week 1: 8/26 - 9/1      | some wordy text | $1600      |
+|  Week 2: 9/2 - 9/8       | centered        |   $12      |
+|  Week 3: 9/9 - 9/15      | centered        |   $12      |
+|  Week 4: 9/16 - 9/22     | some wordy text | $1600      |
+|  Week 5: 9/23 - 9/29     | centered        |   $12      |
+|  Week 6: 9/30 - 10/6     | centered        |   $12      |
+|  Week 7: 10/7 - 10/13    | some wordy text | $1600      |
+|  Week 8: 10/14 - 10/20   | centered        |   $12      |
+|  Week 9: 10/21 - 10/27   | some wordy text | $1600      |
+|  Week 10: 10/28 - 11/3   | centered        |   $12      |
+|  Week 11: 11/4 - 11/10   | some wordy text | $1600      |
+|  Week 12: 11/11 - 11/17  | centered        |   $12      |
+|  Week 13: 11/18 - 11/24  | some wordy text | $1600      |
+|  Week 14: 11/25 - 12/1   | centered        |   $12      |
+|  Week 15: 12/2 - 12/4    | centered        |   $12      |
+|  Week 16: Final exam week| centered        |   $12      |
+
+
+
+
