@@ -9,12 +9,15 @@ developing an academic identity, and fundamentals of success for both graduate s
 ## Prerequisites
 Graduate standing or C.I.
 
+
 ## Course Objectives
 In this course, students will:
+
 �	Explore the five tracks (Digital Humanities, Digital Media, Public History, Rhetoric and Composition, Scientific and Technical Communication) of Texts & 
 Technology through analysis and discussion of core texts.
 �	Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
 �	Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. 
+
 �	Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of Texts and Technology.
 �	Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
 �	Become more familiar with program policies and expectations as well as professional presentation and publication strategies.
@@ -29,7 +32,6 @@ Hayles, N. Katherine. How We Became Posthuman. Chicago: The University of Chicag
 Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
 Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: University of Chicago Press, 2012
 Selber, Stuart Multiliteracies for a Digital Age. Carbondale, IL: Southern Illinois University Press, 2004.
-
 
 ## Evaluation and Grading
 
@@ -47,7 +49,6 @@ D+	=	68-69
 D	=	64-67
 D-	=	60-63
 F	=	0-59
- 
 
 ##Assignments
 	
@@ -70,8 +71,9 @@ o	To stay informed about emergency situations, students can sign up to receive U
 �Student Self Service located on the left side of the screen in the toolbar, scroll down to the blue 
 �Personal Information
 heading on the Student Center screen, click on �UCF Alert�, fill out the information, including e-mail address, cell phone number, and cell phone provider, click �Apply� to save the changes, and then click �OK.�
+
 o	Students with special needs related to emergency situations should speak with their instructors outside of class.
-o	To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk. 
+o	To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk.
 
 ## Course Accessibility Statement
 The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. This syllabus is available in alternate formats 
@@ -130,8 +132,6 @@ The University Writing Center (UWC) is a free resource for UCF undergraduates an
 on anything you're writing (in or out of class), at any point in the writing process from brainstorming to editing. Appointments are recommended, but not required. For 
 more information or to make an appointment, visit the UWC website at http://www.uwc.ucf.edu, stop by MOD 608, or call (407) 823-2197. 
 
-   
-    
 
 | DATE                     | READING         | ASSIGNMENT |
 | :----------------------- |:---------------:| ----------:|
@@ -151,7 +151,5 @@ more information or to make an appointment, visit the UWC website at http://www.
 |  Week 14: 11/25 - 12/1   | centered        |   $12      |
 |  Week 15: 12/2 - 12/4    | centered        |   $12      |
 |  Week 16: Final exam week| centered        |   $12      |
-
-
 
 
