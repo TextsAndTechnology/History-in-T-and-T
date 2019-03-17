@@ -1,4 +1,5 @@
-﻿# Intro to Texts and Technology
+
+# Intro to Texts and Technology
 ## ENG 6800 - 0001  
  
 ## Course Description
@@ -7,7 +8,6 @@ developing an academic identity, and fundamentals of success for both graduate s
 
 ## Prerequisites
 Graduate standing or C.I.
-
 
 ## Course Objectives
 In this course, students will:
