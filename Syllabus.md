@@ -17,7 +17,7 @@ In this course, students will:
 
 ##Required Texts
 Bogost, Ian Persuasive Games: The Expressive Power of Video Games. Cambridge, MA: MIT Press, 2007.
-Bolter, Dennis. Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
+Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
 Gold, Matthew K., Lauren Klein (ed s.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016 .
 Hayles, N. Katherine. How We Became Posthuman. Chicago: The University of Chicago Press, 1999.
 Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
@@ -61,6 +61,13 @@ o	If there is a medical emergency during class, students may need to access a fi
 o	To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to my.ucf.edu and logging in. Click on �Student Self Service� located on the left side of the screen in the toolbar, scroll down to the blue �Personal Information� heading on the Student Center screen, click on �UCF Alert�, fill out the information, including e-mail address, cell phone number, and cell phone provider, click �Apply� to save the changes, and then click �OK.�
 o	Students with special needs related to emergency situations should speak with their instructors outside of class.
 o	To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk.
+
+o Technology Requirements
+You will need to have access to a computer frequently in this course, as all writing assignments used will be typed out and not handwritten. The software you use to write your assignments is irrelevant, as long as you follow my writing guidelines outlined later in my syllabus. I recommend having access to a computer weekly. If you do not own a computer, there are computer accessible to you in all UCF's computer labs. For further information on computer labs, please see the following website: http://guides.ucf.edu/c.php?g=78577&p=517810.
+
+o Internet Usage
+You will need to have daily access to the internet and email, since I will be emailing you about assignment updates, additions and changes. All students at UCF are required to obtain a Knight's Email account and check it regularly for official university communications. If you do not own a computer, there are computer accessible to you in all UCF's computer labs, and most computer labs have computers connected to the internet. For further information on computer labs, please see the following website: http://guides.ucf.edu/c.php?g=78577&p=517810.
+
 
 
 
