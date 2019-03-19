@@ -15,7 +15,7 @@ In this course, students will:
 * Understand the fundamentals of web platforms.
 * Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 
-##Required Texts
+## Required Texts
 Bogost, Ian Persuasive Games: The Expressive Power of Video Games. Cambridge, MA: MIT Press, 2007.
 
 Bolter, Dennis. Writing Space: Computers, Hypertext, and the Remediation of Print. 2nd ed. Mahwah, NJ: Lawrence Erlbaum, 2001.
@@ -30,9 +30,9 @@ Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: University of Ch
 
 Selber, Stuart Multiliteracies for a Digital Age. Carbondale, IL: Southern Illinois University Press, 2004.
 
-##Evaluation and Grading
+## Evaluation and Grading
 
-##Grading Scale
+## Grading Scale
  
 A 	= 	94-100
 
