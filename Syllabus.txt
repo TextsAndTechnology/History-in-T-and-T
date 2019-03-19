@@ -56,9 +56,9 @@ o	To learn about how to manage an active-shooter situation on campus or elsewher
 
 Weekly Schedule
 |Date                      | Reading                   | Assignment |
-| :----------------------- |:-------------------------:| ----------:|
+|:-------------------------|:-------------------------:|-----------:|
 |Week 1: 8/26 - 9/1        |Klein Intro, 1, 2          |            |
-|		                       |Center for Innovation      |            |
+|		                    |Center for Innovation      |            |
 |                          |in Research and Teaching.  |            |
 |                          |“Writing a Conference      |            |
 |                          |Proposal.” https://cirt.   |            |
