@@ -1,6 +1,12 @@
 # Intro to Texts and Technology
 ## ENG 6800 - 0001  
- 
+## Dr. Mel Stanfill
+#### Fall 2019
+#### Office: TCH 236D
+#### Mondays 6-8:50 pm
+#### M 10-12, W 12-2, Th 2-4
+#### Credit Hours: 3 Units
+
 ## Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields, and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 
