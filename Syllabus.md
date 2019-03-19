@@ -65,6 +65,26 @@ D-	=	60-63
 F	=	0-59
  
 ## Assignments
+
+* Due Date: Every Wednesday beginning Aug 28 - Nov 27, 2019
+
+100 points 10x Weekly Exams Summary
+In 10 weeks of their choice, students will summarize the required readings as if for a candidacy examusing the provided template. This is due 3 hours before class time to allow me to review them.
+
+* Due Date: Sept 18, 2019
+
+300 points Fantasy Conference Panel
+Students will choose a conference relevant to their field and put together a mock (or real) submission, writing their own abstract as well as the panel rationale.
+
+* Due Date: Oct 16, 2019 
+
+300 points Build a Web Presence
+Create a professional website with the name you intend to use to publish.
+
+*Due Date: Dec 4, 2019
+
+Mock Candidacy Exam
+During the final class meeting (November 26), students will receive two mock.
 	
 # Policies
 *During the first week, there is a required Academic Activity Verification, due August 24 by 11:59pm.
