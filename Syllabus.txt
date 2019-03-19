@@ -1,4 +1,4 @@
-Intro to Texts and Technology
+﻿Intro to Texts and Technology
 ENG 6800 - 0001  
  
 Course Description
@@ -6,14 +6,14 @@ This course provides an introduction to the PhD in Texts and Technology. Emphasi
 
 Course Objectives
 In this course, students will:
-�	Explore the five tracks (digital humanities, digital media, public history, rhetoric and composition, scientific and technical communication) of Texts & Technology through analysis and discussion of core texts.
-�	Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
-�	Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. 
-�	Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of Texts and Technology.
-�	Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
-�	Become more familiar with program policies and expectations as well as professional presentation and publication strategies.
-�	Understand the fundamentals of web platforms.
-�	Apply basic syntax and markup language to build structured web documents (e.g., HTML).
+* Explore the five tracks (digital humanities, digital media, public history, rhetoric and composition, scientific and technical communication) of Texts & Technology through analysis and discussion of core texts.
+* Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
+* Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. 
+* Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of Texts and Technology.
+* Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
+* Become more familiar with program policies and expectations as well as professional presentation and publication strategies.
+* Understand the fundamentals of web platforms.
+* Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 
 Required Texts
 
