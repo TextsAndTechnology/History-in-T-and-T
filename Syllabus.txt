@@ -1,6 +1,13 @@
-Intro to Texts and Technology
-ENG 6800 - 0001  
- 
+﻿# Intro to Texts and Technology
+## ENG 6800 - 0001  
+## Dr. Mel Stanfill
+### Fall 2019
+### TCH
+### Office: XXXXX
+### Office Hours:xxxx
+### Mondays from 6-8:50 pm
+### Credit Hours: 3 Units
+
 Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 
@@ -54,19 +61,22 @@ o	To stay informed about emergency situations, students can sign up to receive U
 o	Students with special needs related to emergency situations should speak with their instructors outside of class.
 o	To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video https://youtu.be/NIKYajEx4pk. 
 
-Weekly Schedule
-Week 1
-Week 2
-Week 3
-Week 4
-Week 5
-Week 6
-Week 7
-Week 8
-Week 9
-Week 10
-Week 11
-Week 12
-Week 13
-Week 14
-Week 15
+| DATE                     | READING         | ASSIGNMENT |
+| :----------------------- |:---------------:| ----------:|
+|  Week 1: 8/26 - 9/1      | some wordy text | $1600      |
+|  Week 2: 9/2 - 9/8       | centered        |   $12      |
+|  Week 3: 9/9 - 9/15      | centered        |   $12      |
+|  Week 4: 9/16 - 9/22     | some wordy text | $1600      |
+|  Week 5: 9/23 - 9/29     | centered        |   $12      |
+|  Week 6: 9/30 - 10/6     | centered        |   $12      |
+|  Week 7: 10/7 - 10/13    | some wordy text | $1600      |
+|  Week 8: 10/14 - 10/20   | centered        |   $12      |
+|  Week 9: 10/21 - 10/27   | some wordy text | $1600      |
+|  Week 10: 10/28 - 11/3   | centered        |   $12      |
+|  Week 11: 11/4 - 11/10   | some wordy text | $1600      |
+|  Week 12: 11/11 - 11/17  | centered        |   $12      |
+|  Week 13: 11/18 - 11/24  | some wordy text | $1600      |
+|  Week 14: 11/25 - 12/1   | centered        |   $12      |
+|  Week 15: 12/2 - 12/4    | centered        |   $12      |
+|  Week 16: Final exam week| centered        |   $12      |
+
