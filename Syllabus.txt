@@ -1,16 +1,20 @@
-﻿
 
 # Intro to Texts and Technology
 ## ENG 6800 - 0001  
+## Dr. Mel Stanfill
+### Fall 2019
+### TCH
+### Office: XXXXX
+### Office Hours:xxxx
+### Mondays from 6-8:50 pm
+### Credit Hours: 3 Units
 
- 
 ## Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, 
 developing an academic identity, and fundamentals of success for both graduate school and academia. 
 
 ## Prerequisites
 Graduate standing or C.I.
-
 
 ## Course Objectives
 In this course, students will:
@@ -23,7 +27,6 @@ In this course, students will:
 * Become more familiar with program policies and expectations as well as professional presentation and publication strategies.
 * Understand the fundamentals of web platforms.
 * Apply basic syntax and markup language to build structured web documents (e.g., HTML).
-
 
 ## Required Texts
 Bogost, Ian Persuasive Games: The Expressive Power of Video Games. Cambridge, MA: MIT Press, 2007.
@@ -51,7 +54,7 @@ D	=	64-67
 D-	=	60-63
 F	=	0-59
 
-##Assignments
+## Assignments
 
 * Due Date: Every Wednesday beginning Aug 28 - Nov 27, 2019
 
@@ -73,7 +76,6 @@ Create a professional website with the name you intend to use to publish.
 Mock Candidacy Exam
 During the final class meeting (November 26), students will receive two mock.
 
-	
 ##Policies
 	During the first week, there is a required Academic Activity Verification, due August 24 by 11:59pm.
 	Faculty members are required to document students
