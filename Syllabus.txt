@@ -1,4 +1,4 @@
-
+﻿
 # Intro to Texts and Technology
 ## ENG 6800 - 0001  
 ## Dr. Mel Stanfill
@@ -57,6 +57,20 @@ D-	=	60-63
 F	=	0-59
 
 ## Assignments
+ 100 points: 10x Weekly Exams Summary In 10 weeks of their choice, students will write a 1-page memo summarizing the required readings as if for a candidacy exam. This is due 3 hours before class time to allow me to review them. 
+
+300 points: Twine Literature Review Due Sept 29.
+ Using Twine (https://twinery.org/) you will produce a project that summarizes thought in a particular field and shows connections between scholars. This could be starting from a key text and following citation forward and backward; it could be tracing a concept through different thinkers; there are many possible formats, but the project must use at least 7 scholarly articles. 
+
+150 points Funding Search Due October 26.
+Students will use the PIVOT database to find 3-5 funding opportunities that might be applicable to a proposed project of their choice and submit a list annotated with a brief description of how their research applies. 
+
+150 points Sample Grant Proposal Due November 10.
+ Using Dr. Karen’s Foolproof Grant Template (https://theprofessorisin.com/2011/07/05/dr-karens-foolproof-granttemplate/), students will write a 5-page sample grant proposal that locates a proposed project of their choice in a scholarly context, explains what they will do and why it matters, and attempts to persuade the reader that funding them will advance knowledge.
+
+ 300 points Mock Candidacy Examination Due December 5.
+ During the final class meeting, students will receive two mock exam questions which they will have a week to answer in 6 pages each. These questions are to be answered on the basis of readings from this course and other courses; students should not undertake new reading. 1000 points Total
+
 
 * Due Date: Every Wednesday beginning Aug 28 - Nov 27, 2019
 
