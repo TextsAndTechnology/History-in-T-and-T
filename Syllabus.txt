@@ -199,7 +199,7 @@ Weekly Schedule
 |Week 1: 8/26 - 9/1        |Klein Intro, 1, 2          | Academic Activity   |
 |                          |                           |Verification         |
 |                          |                           |                     |
-|		           |Center for Innovation      |        Exam Summary #1     |
+|		           |Center for Innovation      |  Exam Summary #1     |
 |                          |in Research and Teaching.  |                     |
 |                          |“Writing a Conference      |                     |
 |                          |Proposal.” https://cirt.   |                     |
@@ -209,7 +209,7 @@ Weekly Schedule
 |                          |conf_proposal.             |                     |
 |Week 2: 9/2 - 9/8         |Labor Day - No Class       |                     |
 |Week 3: 9/9 - 9/15        |Selber 1,3 	               |Exam Summary #2      |
-|	                   |Whitson, Roger. 2012.      |                 |
+|	                   |Whitson, Roger. 2012.      |                     |
 |                          |“The Ins and Outs of a     |                     |
 |                          |Professional Academic      |                     |
 |                          |Website.”                  |                     |
