@@ -1,3 +1,4 @@
+
 # Intro to Texts and Technology
 ## ENG 6800 - 0001  
 ## Dr. Mel Stanfill
@@ -8,10 +9,12 @@
 #### Credit Hours: 3 Units
 
 ## Course Description
+
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields, and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 
 ## Course Objectives
 In this course, students will:
+
 * Explore the five tracks (Digital Humanities, Digital Media, Public History, Rhetoric and Composition, Scientific and Technical Communication) of Texts & Technology through analysis and discussion of core texts.
 * Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
 * Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program. 
@@ -36,19 +39,17 @@ Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: University of Ch
 
 Selber, Stuart Multiliteracies for a Digital Age. Carbondale, IL: Southern Illinois University Press, 2004.
 
-## Evaluation and Grading
-
 ## Grading Scale
- 
+
 A 	= 	94-100
 
 A- 	= 	90-93
 
 B+ 	= 	88-89
 
-B	=	84-87
+B	  =	  84-87
 
-B-	=	80-83
+B-	=	  80-83
 
 C+	= 	78-79
 
@@ -56,14 +57,15 @@ C 	= 	74-77
 
 C- 	= 	70-73
 
-D+	=	68-69
+D+	=	  68-69
 
-D	=	64-67
+D   =	  64-67
 
-D-	=	60-63
+D-	=	  60-63
 
-F	=	0-59
- 
+F	  =	  0-59
+
+
 ## Assignments
 
 * Due Date: Every Wednesday beginning Aug 28 - Nov 27, 2019
@@ -178,7 +180,3 @@ more information or to make an appointment, visit the UWC website at http://www.
 |  Week 14: 11/25 - 12/1   | centered        |   $12      |
 |  Week 15: 12/2 - 12/4    | centered        |   $12      |
 |  Week 16: Final exam week| centered        |   $12      |
-
-
-
-
