@@ -197,8 +197,8 @@ Weekly Schedule
 |Date                      | Reading                   | Assignment          |
 |:-------------------------|:-------------------------:|--------------------:|
 |Week 1: 8/26 - 9/1        |Klein Intro, 1, 2          | Academic Activity   |
-                                                       |Verification         |
-                                                       |                     |
+|                          |                           |Verification         |
+|                          |                           |                     |
 |		           |Center for Innovation      |            |Exam Summary #1     |
 |                          |in Research and Teaching.  |                     |
 |                          |“Writing a Conference      |                     |
