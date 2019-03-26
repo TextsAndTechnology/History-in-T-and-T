@@ -28,6 +28,7 @@ You'll practice fetching, making local additions and changes, and pushing using 
 This repo also provides a place where you can collaboratively write reading notes about any of the Core Reading List texts.
 
 # This is a Heading
+
 You should change that heading's size.
 
 ## Anshare's addition
