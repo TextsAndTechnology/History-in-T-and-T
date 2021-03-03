@@ -27,7 +27,7 @@ You'll practice fetching, making local additions and changes, and pushing using 
 ## Reading Notes
 This repo also provides a place where you can collaboratively write reading notes about any of the Core Reading List texts.
 
-# This is a Heading "The WORLD is Great"
+# The WORLD is Great
 
 You should change that heading's size.
 
